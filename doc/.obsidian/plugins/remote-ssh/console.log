@@ -1,0 +1,58 @@
+{"ts":"2026-10-12T07:36:03.853Z","level":"info","msg":"Plugin remote-ssh v1.1.11 loaded"}
+{"ts":"2026-10-12T07:37:30.254Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:37:30.255Z","level":"info","msg":"Auth: using private key C:\\Users\\jeremie.gallee\\.ssh\\id_ed25519"}
+{"ts":"2026-10-12T07:37:54.125Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:38:00.745Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:38:00.745Z","level":"info","msg":"Auth: using private key C:\\Users\\jeremie.gallee\\.ssh\\id_ed25519"}
+{"ts":"2026-10-12T07:39:28.669Z","level":"info","msg":"Plugin remote-ssh unloading"}
+{"ts":"2026-10-12T07:39:29.325Z","level":"info","msg":"Plugin remote-ssh v1.1.11 loaded"}
+{"ts":"2026-10-12T07:40:45.335Z","level":"info","msg":"ShadowVaultBootstrap: registered shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (registry id=2d20df1f21953334, plugin=symlink)"}
+{"ts":"2026-10-12T07:40:45.335Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:40:45.337Z","level":"warn","msg":"preSpawnPull: skipped (Cannot read private key at \"C:\\Users\\jeremie.gallee\\.ssh\\id_rsa\": ENOENT: no such file or directory, open 'C:\\Users\\jeremie.gallee\\.ssh\\id_rsa'); shadow window will sync after open"}
+{"ts":"2026-10-12T07:40:45.338Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc"}
+{"ts":"2026-10-12T07:40:45.340Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc, registry id=2d20df1f21953334 (newly registered), plugin=symlink"}
+{"ts":"2026-10-12T07:41:02.701Z","level":"info","msg":"Plugin remote-ssh v1.1.11 loaded"}
+{"ts":"2026-10-12T07:41:22.706Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (registry id=2d20df1f21953334, plugin=symlink)"}
+{"ts":"2026-10-12T07:41:22.706Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:41:22.707Z","level":"warn","msg":"preSpawnPull: skipped (Cannot read private key at \"C:\\Users\\jeremie.gallee\\.ssh\\id_rsa\": ENOENT: no such file or directory, open 'C:\\Users\\jeremie.gallee\\.ssh\\id_rsa'); shadow window will sync after open"}
+{"ts":"2026-10-12T07:41:22.707Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc"}
+{"ts":"2026-10-12T07:41:22.708Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc, registry id=2d20df1f21953334 (reused), plugin=symlink"}
+{"ts":"2026-10-12T07:42:07.224Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (registry id=2d20df1f21953334, plugin=symlink)"}
+{"ts":"2026-10-12T07:42:07.224Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:42:07.224Z","level":"warn","msg":"preSpawnPull: skipped (Cannot read private key at \"C:\\Users\\jeremie.gallee\\.ssh\\id_rsa\": ENOENT: no such file or directory, open 'C:\\Users\\jeremie.gallee\\.ssh\\id_rsa'); shadow window will sync after open"}
+{"ts":"2026-10-12T07:42:07.224Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc"}
+{"ts":"2026-10-12T07:42:07.225Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc, registry id=2d20df1f21953334 (reused), plugin=symlink"}
+{"ts":"2026-10-12T07:42:40.549Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (registry id=2d20df1f21953334, plugin=symlink)"}
+{"ts":"2026-10-12T07:42:40.549Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:42:40.550Z","level":"warn","msg":"preSpawnPull: skipped (Cannot read private key at \"C:\\Users\\jeremie.gallee\\.ssh\\id_id_ed25519\": ENOENT: no such file or directory, open 'C:\\Users\\jeremie.gallee\\.ssh\\id_id_ed25519'); shadow window will sync after open"}
+{"ts":"2026-10-12T07:42:40.550Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc"}
+{"ts":"2026-10-12T07:42:40.550Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc, registry id=2d20df1f21953334 (reused), plugin=symlink"}
+{"ts":"2026-10-12T07:43:04.076Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (registry id=2d20df1f21953334, plugin=symlink)"}
+{"ts":"2026-10-12T07:43:04.076Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:43:04.077Z","level":"info","msg":"Auth: using private key C:\\Users\\jeremie.gallee\\.ssh\\id_ed25519"}
+{"ts":"2026-10-12T07:43:04.079Z","level":"warn","msg":"preSpawnPull: skipped (Cannot parse privateKey: Encrypted private OpenSSH key detected, but no passphrase given); shadow window will sync after open"}
+{"ts":"2026-10-12T07:43:04.079Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc"}
+{"ts":"2026-10-12T07:43:04.080Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc, registry id=2d20df1f21953334 (reused), plugin=symlink"}
+{"ts":"2026-10-12T07:46:24.322Z","level":"info","msg":"ShadowVaultBootstrap: registered shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (2) (registry id=90dd1dc440089cdd, plugin=symlink)"}
+{"ts":"2026-10-12T07:46:24.322Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:46:24.330Z","level":"info","msg":"Auth: using private key \\\\wsl.localhost\\Ubuntu\\home\\jeremie\\.ssh\\id_rsa"}
+{"ts":"2026-10-12T07:46:24.369Z","level":"info","msg":"TOFU: Trusting new host key for 192.168.50.2:22: SHA256:af4c7a9ab680fb19..."}
+{"ts":"2026-10-12T07:46:24.581Z","level":"info","msg":"SftpClient: SSH ready (192.168.50.2)"}
+{"ts":"2026-10-12T07:46:24.752Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-10-12T07:46:24.931Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-10-12T07:46:24.975Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh] (changed=false, base=none)"}
+{"ts":"2026-10-12T07:46:24.975Z","level":"info","msg":"preSpawnPull: staged canonical .obsidian/ before spawn (jeremPi)"}
+{"ts":"2026-10-12T07:46:24.976Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc%20(2)"}
+{"ts":"2026-10-12T07:46:24.977Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (2), registry id=90dd1dc440089cdd (newly registered), plugin=symlink"}
+{"ts":"2026-10-12T07:46:50.291Z","level":"info","msg":"Plugin remote-ssh v1.1.11 loaded"}
+{"ts":"2026-10-12T07:47:07.057Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for jeremPi at C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (2) (registry id=90dd1dc440089cdd, plugin=symlink)"}
+{"ts":"2026-10-12T07:47:07.057Z","level":"info","msg":"SftpClient: connecting to 192.168.50.2:22 as jeremie"}
+{"ts":"2026-10-12T07:47:07.061Z","level":"info","msg":"Auth: using private key \\\\wsl.localhost\\Ubuntu\\home\\jeremie\\.ssh\\id_rsa"}
+{"ts":"2026-10-12T07:47:07.099Z","level":"info","msg":"TOFU: Trusting new host key for 192.168.50.2:22: SHA256:af4c7a9ab680fb19..."}
+{"ts":"2026-10-12T07:47:07.309Z","level":"info","msg":"SftpClient: SSH ready (192.168.50.2)"}
+{"ts":"2026-10-12T07:47:07.456Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-10-12T07:47:07.632Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-10-12T07:47:07.676Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh] (changed=false, base=none)"}
+{"ts":"2026-10-12T07:47:07.677Z","level":"info","msg":"preSpawnPull: staged canonical .obsidian/ before spawn (jeremPi)"}
+{"ts":"2026-10-12T07:47:07.678Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Cjeremie.gallee%5C.obsidian-remote%5Cvaults%5CjeremPi--doc%20(2)"}
+{"ts":"2026-10-12T07:47:07.681Z","level":"info","msg":"openShadowVaultFor: profile=jeremPi, vault=C:\\Users\\jeremie.gallee\\.obsidian-remote\\vaults\\jeremPi--doc (2), registry id=90dd1dc440089cdd (reused), plugin=symlink"}
